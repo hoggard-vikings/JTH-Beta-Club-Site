@@ -1,47 +1,7 @@
 // events-data.jsx ? Auto-generated. Do not edit manually.
-// Last updated: 10/8/2026, 11:47:35 PM ET
+// Last updated: 10/13/2026, 10:57:53 AM ET
 
 const UPCOMING_EVENTS = [
-  {
-    "title": "YWCA Lower Cape Fear",
-    "day": "9",
-    "mo": "OCTOBER",
-    "detail": "helping to put the tarp on the pool, in preparation for the bubble",
-    "spots": "25",
-    "url": "https://www.signupgenius.com/go/4090449ADA928A5FC1-66286771-ywca",
-    "url2": "",
-    "dateNote": ""
-  },
-  {
-    "title": "John T Hoggard PTSO ",
-    "day": "10",
-    "mo": "OCTOBER",
-    "detail": "Help set up the homecoming dance ",
-    "spots": "20",
-    "url": "https://www.signupgenius.com/go/4090449ADA928A5FC1-65935482-hoggard",
-    "url2": "",
-    "dateNote": ""
-  },
-  {
-    "title": "John T Hoggard PTSO ",
-    "day": "10",
-    "mo": "OCTOBER",
-    "detail": "Breaking down the homecoming dance and cleaning up the decorations ",
-    "spots": "5",
-    "url": "https://www.signupgenius.com/go/4090449ADA928A5FC1-65935646-hoggard",
-    "url2": "",
-    "dateNote": ""
-  },
-  {
-    "title": "YWCA Lower Cape Fear",
-    "day": "10",
-    "mo": "OCTOBER",
-    "detail": "Helping to put the bubble on the pool and remove the tarp. ",
-    "spots": "40",
-    "url": "https://www.signupgenius.com/go/4090449ADA928A5FC1-66287019-ywca",
-    "url2": "",
-    "dateNote": ""
-  },
   {
     "title": "Holly Tree PTA",
     "day": "16",
@@ -90,6 +50,16 @@ const UPCOMING_EVENTS = [
     "spots": "10",
     "url": "https://www.signupgenius.com/go/4090449ADA928A5FC1-66030770-anthonys",
     "url2": "",
+    "dateNote": ""
+  },
+  {
+    "title": "Mary C. Williams Elementary PTA",
+    "day": "30",
+    "mo": "OCTOBER",
+    "detail": "Running games, food stations, clean up and set up of the festival, family photo booth station. We will have a SignUp Genius for all of the areas. ",
+    "spots": "70",
+    "url": "https://www.signupgenius.com/go/10C0545ACAB22A7FBCE9-66424050-fall#/",
+    "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-66695948-mary#/",
     "dateNote": ""
   },
   {
