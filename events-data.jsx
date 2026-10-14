@@ -1,5 +1,5 @@
 // events-data.jsx ? Auto-generated. Do not edit manually.
-// Last updated: 10/13/2026, 10:57:53 AM ET
+// Last updated: 10/13/2026, 9:12:21 PM ET
 
 const UPCOMING_EVENTS = [
   {
@@ -20,6 +20,16 @@ const UPCOMING_EVENTS = [
     "spots": "17",
     "url": "https://signup.com/client/invitation2/secure/121369405403/false#/invitation",
     "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-66597384-winter",
+    "dateNote": ""
+  },
+  {
+    "title": "Breakthrough T1D",
+    "day": "17",
+    "mo": "OCTOBER",
+    "detail": "2 people to work game area, 2 people to run raffle table, 2 people to sell food",
+    "spots": "6",
+    "url": "https://www.signupgenius.com/go/4090449ADA928A5FC1-66728908-breakthrough",
+    "url2": "",
     "dateNote": ""
   },
   {
