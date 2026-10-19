@@ -1,37 +1,7 @@
 // events-data.jsx ? Auto-generated. Do not edit manually.
-// Last updated: 10/13/2026, 9:12:21 PM ET
+// Last updated: 10/18/2026, 11:26:03 PM ET
 
 const UPCOMING_EVENTS = [
-  {
-    "title": "Holly Tree PTA",
-    "day": "16",
-    "mo": "OCTOBER",
-    "detail": "Assisting with set up, kids games, concessions, clean up, etc",
-    "spots": "51",
-    "url": "https://signup.com/client/invitation2/secure/1093026680106/false#/invitation",
-    "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-66193445-holly",
-    "dateNote": ""
-  },
-  {
-    "title": "Winter Park Elementary",
-    "day": "17",
-    "mo": "OCTOBER",
-    "detail": "Working various stations during Trunk Or Treat",
-    "spots": "17",
-    "url": "https://signup.com/client/invitation2/secure/121369405403/false#/invitation",
-    "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-66597384-winter",
-    "dateNote": ""
-  },
-  {
-    "title": "Breakthrough T1D",
-    "day": "17",
-    "mo": "OCTOBER",
-    "detail": "2 people to work game area, 2 people to run raffle table, 2 people to sell food",
-    "spots": "6",
-    "url": "https://www.signupgenius.com/go/4090449ADA928A5FC1-66728908-breakthrough",
-    "url2": "",
-    "dateNote": ""
-  },
   {
     "title": "Wilmington Road Runners Club",
     "day": "24",
@@ -156,14 +126,6 @@ const RECURRING_EVENTS = [
     "spots": "As many as possible!",
     "url": "https://signup.com/client/invitation2/secure/241908208031/false#/invitation",
     "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-65603458-wesley"
-  },
-  {
-    "title": "IRONMAN 70.3 North Carolina",
-    "dates": "10/14-10/18",
-    "detail": "There are a variety of job opportunities - everything from directing and cheering on athletes, helping to move their gear bags, and much more",
-    "spots": "As many as possible!",
-    "url": "https://ironman.volunteerlocal.com/volunteer/?id=106148",
-    "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-65481478-ironman#/"
   },
   {
     "title": "Healthy Kids Running Series",
