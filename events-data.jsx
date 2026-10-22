@@ -1,5 +1,5 @@
 // events-data.jsx ? Auto-generated. Do not edit manually.
-// Last updated: 10/21/2026, 8:52:36 PM ET
+// Last updated: 10/21/2026, 8:54:24 PM ET
 
 const UPCOMING_EVENTS = [
   {
@@ -84,7 +84,7 @@ const UPCOMING_EVENTS = [
   },
   {
     "title": "Amigos International",
-    "day": "14,15",
+    "day": "14, 15",
     "mo": "NOVEMBER",
     "detail": "helping the Exhibitors set up their Booths and manning Kids Inflatables or games",
     "spots": "                 20-30",
