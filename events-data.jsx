@@ -1,5 +1,5 @@
 // events-data.jsx ? Auto-generated. Do not edit manually.
-// Last updated: 10/21/2026, 8:36:18 PM ET
+// Last updated: 10/21/2026, 8:52:36 PM ET
 
 const UPCOMING_EVENTS = [
   {
@@ -80,6 +80,16 @@ const UPCOMING_EVENTS = [
     "spots": "10",
     "url": "https://www.signupgenius.com/go/10C0C4AABA923A5F9C34-66862599-smart#/",
     "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-66985170-smart",
+    "dateNote": ""
+  },
+  {
+    "title": "Amigos International",
+    "day": "14,15",
+    "mo": "NOVEMBER",
+    "detail": "helping the Exhibitors set up their Booths and manning Kids Inflatables or games",
+    "spots": "                 20-30",
+    "url": "https://www.signupgenius.com/go/20F0445ADAF2BA3FC1-66633828-amigos#/",
+    "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-66985580-amigos",
     "dateNote": ""
   },
   {
