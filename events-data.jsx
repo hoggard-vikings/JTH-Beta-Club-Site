@@ -1,5 +1,5 @@
 // events-data.jsx ? Auto-generated. Do not edit manually.
-// Last updated: 10/21/2026, 8:54:24 PM ET
+// Last updated: 10/23/2026, 11:11:13 AM ET
 
 const UPCOMING_EVENTS = [
   {
@@ -50,6 +50,16 @@ const UPCOMING_EVENTS = [
     "spots": "20",
     "url": "https://signup.com/client/invitation2/secure/9828734660120/false#/invitation",
     "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-65426419-hawk",
+    "dateNote": ""
+  },
+  {
+    "title": "Pine Valley PTA",
+    "day": "13",
+    "mo": "NOVEMBER",
+    "detail": "We need 4 volunteers to help with our Movie Night! Two volunteers will help sell spirit wear, while the other two will help operate the popcorn machine and assist the middle school Beta Club with concessions. If spirit wear gets especially busy, all four volunteers may need to help at the spirit wear table.",
+    "spots": "4",
+    "url": "https://signup.com/client/invitation2/secure/54287675409/false#/invitation",
+    "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67009651-pine#/ ",
     "dateNote": ""
   },
   {
