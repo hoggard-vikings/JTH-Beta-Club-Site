@@ -1,27 +1,7 @@
 // events-data.jsx ? Auto-generated. Do not edit manually.
-// Last updated: 10/23/2026, 11:11:13 AM ET
+// Last updated: 10/25/2026, 11:50:53 PM ET
 
 const UPCOMING_EVENTS = [
-  {
-    "title": "Wilmington Road Runners Club",
-    "day": "24",
-    "mo": "OCTOBER",
-    "detail": "Students will direct runners and bring energy and cheers to keep our runners motivated",
-    "spots": "20",
-    "url": "https://runsignup.com/Race/Volunteer/NC/WrightsvilleBeach/SeasideShuffle5k",
-    "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-66193228-wilmington",
-    "dateNote": ""
-  },
-  {
-    "title": "St. James Day School",
-    "day": "24",
-    "mo": "OCTOBER",
-    "detail": "Helping preschool students play games, awarding prizes, and cleaning up behind guests at our preschool fall festival",
-    "spots": "20",
-    "url": "https://www.signupgenius.com/go/4090449ADA928A5FC1-66597348-stjames",
-    "url2": "",
-    "dateNote": ""
-  },
   {
     "title": "Anthony's Way - The Road to Kindness",
     "day": "26",
