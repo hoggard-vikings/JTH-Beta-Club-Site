@@ -1,17 +1,7 @@
 // events-data.jsx ? Auto-generated. Do not edit manually.
-// Last updated: 10/25/2026, 11:50:53 PM ET
+// Last updated: 10/27/2026, 11:10:35 AM ET
 
 const UPCOMING_EVENTS = [
-  {
-    "title": "Anthony's Way - The Road to Kindness",
-    "day": "26",
-    "mo": "OCTOBER",
-    "detail": "Helping to set up tents, tables, organize tabletop items, sell raffle tickets, help with the dice roll stations",
-    "spots": "10",
-    "url": "https://www.signupgenius.com/go/4090449ADA928A5FC1-66030770-anthonys",
-    "url2": "",
-    "dateNote": ""
-  },
   {
     "title": "Mary C. Williams Elementary PTA",
     "day": "30",
