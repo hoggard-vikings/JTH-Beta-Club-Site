@@ -1,5 +1,5 @@
 // events-data.jsx ? Auto-generated. Do not edit manually.
-// Last updated: 11/1/2026, 2:30:59 PM ET
+// Last updated: 11/1/2026, 2:39:22 PM ET
 
 const UPCOMING_EVENTS = [
   {
@@ -20,6 +20,16 @@ const UPCOMING_EVENTS = [
     "spots": "20",
     "url": "https://signup.com/client/invitation2/secure/9828734660120/false#/invitation",
     "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-65426419-hawk",
+    "dateNote": ""
+  },
+  {
+    "title": "Alliance for Cape Fear Trees",
+    "day": "7",
+    "mo": "NOVEMBER",
+    "detail": "line management, help bringing trees to cars, face paint table, kids craft table.",
+    "spots": "15",
+    "url": "https://allianceforcapefeartrees.app.neoncrm.com/forms/volunteer?opportunityId=69",
+    "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67239535-alliance",
     "dateNote": ""
   },
   {
