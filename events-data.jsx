@@ -1,17 +1,7 @@
 // events-data.jsx ? Auto-generated. Do not edit manually.
-// Last updated: 10/27/2026, 11:10:35 AM ET
+// Last updated: 11/1/2026, 2:15:54 PM ET
 
 const UPCOMING_EVENTS = [
-  {
-    "title": "Mary C. Williams Elementary PTA",
-    "day": "30",
-    "mo": "OCTOBER",
-    "detail": "Running games, food stations, clean up and set up of the festival, family photo booth station. We will have a SignUp Genius for all of the areas. ",
-    "spots": "70",
-    "url": "https://www.signupgenius.com/go/10C0545ACAB22A7FBCE9-66424050-fall#/",
-    "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-66695948-mary#/",
-    "dateNote": ""
-  },
   {
     "title": "Hawk Masters Swimming Association",
     "day": "7",
@@ -110,22 +100,6 @@ const RECURRING_EVENTS = [
     "spots": "80-100",
     "url": "https://www.signupgenius.com/go/508084BACAC29A4FF2-64806659-volunteer#/",
     "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-65550645-miracle"
-  },
-  {
-    "title": "Trask Family Farms",
-    "dates": "9/19-11/01",
-    "detail": "Volunteers will assist with welcoming guests, helping visitors throughout the farm, staffing activity areas, answering questions, restocking pumpkin carts, and helping keep the farm clean and organized.",
-    "spots": "15",
-    "url": "https://www.signupgenius.com/go/20F0D4DACA923A1F9C07-65010771-trask#/",
-    "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-65550103-trask"
-  },
-  {
-    "title": "Wesley Memorial UMC - Pumpkin Patch",
-    "dates": "9/26-10/31",
-    "detail": "Unloading pumpkins from the trucks, helping patch customers",
-    "spots": "As many as possible!",
-    "url": "https://signup.com/client/invitation2/secure/241908208031/false#/invitation",
-    "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-65603458-wesley"
   },
   {
     "title": "Healthy Kids Running Series",
