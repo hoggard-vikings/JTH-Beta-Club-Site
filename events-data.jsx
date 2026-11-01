@@ -1,5 +1,5 @@
 // events-data.jsx ? Auto-generated. Do not edit manually.
-// Last updated: 11/1/2026, 2:39:22 PM ET
+// Last updated: 11/1/2026, 3:30:04 PM ET
 
 const UPCOMING_EVENTS = [
   {
@@ -100,6 +100,16 @@ const UPCOMING_EVENTS = [
     "spots": "20",
     "url": "https://runsignup.com/Race/Volunteer/NC/Wilmington/RunHistoricWilmington",
     "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-66446583-wilmington",
+    "dateNote": ""
+  },
+  {
+    "title": "YMCA ",
+    "day": "6",
+    "mo": "DECEMBER",
+    "detail": "Directing runners, working at the finish line handing out medals, working at water stations. ",
+    "spots": "60",
+    "url": "https://ymcasenc.volunteermatters.org/project-catalog/62",
+    "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67240696-ymca",
     "dateNote": ""
   }
 ];
