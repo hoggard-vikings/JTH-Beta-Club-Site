@@ -663,7 +663,7 @@ function RequirementsPage({ fonts, setPage }) {
   const notes = [
     { icon: '⏱', title: 'Item Drive Hours', body: 'Only 2 hours per semester may come from item drives (Blanket Drive, Operation Christmas Child, etc.). These events are valuable, but can\'t be the majority of your hours.' },
     { icon: '→', title: 'Hour Rollover', body: 'If you earn more than 10 hours in the fall semester, up to 5 extra hours carry over to your spring requirement. Complete your log on time to take advantage of this.' },
-    { icon: '✓', title: 'Attendance', body: 'You must attend at least 2 Beta-sponsored service events per semester. Logging outside volunteer hours counts toward your total, but events matter separately.' },
+    { icon: '✓', title: 'Attendance', body: 'You must attend at least 2 Beta-sponsored service events per semester. Only hours from Beta-sponsored events count toward your total, and outside volunteer hours are not accepted.' },
     { icon: '!', title: 'Log Completion', body: 'Complete your hour log by the deadline for your grade. Late logs may not be accepted. Contact an advisor if you have an extenuating circumstance before the deadline.' },
   ];
 
