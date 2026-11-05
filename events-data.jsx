@@ -1,5 +1,5 @@
 // events-data.jsx ? Auto-generated. Do not edit manually.
-// Last updated: 11/4/2026, 7:09:23 PM ET
+// Last updated: 11/4/2026, 7:20:44 PM ET
 
 const UPCOMING_EVENTS = [
   {
@@ -20,6 +20,16 @@ const UPCOMING_EVENTS = [
     "spots": "15",
     "url": "https://allianceforcapefeartrees.app.neoncrm.com/forms/volunteer?opportunityId=69",
     "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67239535-alliance",
+    "dateNote": ""
+  },
+  {
+    "title": "Sunset Park Elementary ",
+    "day": "7",
+    "mo": "NOVEMBER",
+    "detail": "Spreading mulch, cleaning up the school area, getting garden areas ready",
+    "spots": "5",
+    "url": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67360789-sunset",
+    "url2": "",
     "dateNote": ""
   },
   {
