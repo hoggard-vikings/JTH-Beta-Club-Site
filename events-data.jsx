@@ -1,17 +1,7 @@
 // events-data.jsx ? Auto-generated. Do not edit manually.
-// Last updated: 11/1/2026, 3:30:04 PM ET
+// Last updated: 11/4/2026, 7:09:23 PM ET
 
 const UPCOMING_EVENTS = [
-  {
-    "title": "Winter Park Elementary",
-    "day": "3",
-    "mo": "NOVEMBER",
-    "detail": "gardening, picking weeds, raking",
-    "spots": "10",
-    "url": "https://signup.com/client/invitation2/secure/58170988409/false#/invitation",
-    "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67239326-winter",
-    "dateNote": ""
-  },
   {
     "title": "Hawk Masters Swimming Association",
     "day": "7",
