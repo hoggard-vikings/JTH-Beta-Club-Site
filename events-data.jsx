@@ -1,5 +1,5 @@
 // events-data.jsx ? Auto-generated. Do not edit manually.
-// Last updated: 11/4/2026, 7:20:51 PM ET
+// Last updated: 11/6/2026, 9:06:20 AM ET
 
 const UPCOMING_EVENTS = [
   {
@@ -40,6 +40,16 @@ const UPCOMING_EVENTS = [
     "spots": "4",
     "url": "https://signup.com/client/invitation2/secure/54287675409/false#/invitation",
     "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67009651-pine#/ ",
+    "dateNote": ""
+  },
+  {
+    "title": "Holly Tree Movie Night",
+    "day": "13",
+    "mo": "NOVEMBER",
+    "detail": "Helping with setting up concessions, serving concessions, and cleaning up",
+    "spots": "5",
+    "url": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67394531-holly",
+    "url2": "",
     "dateNote": ""
   },
   {
@@ -89,6 +99,16 @@ const UPCOMING_EVENTS = [
     "detail": "Course monitors ",
     "spots": "20",
     "url": "https://www.signupgenius.com/go/4090449ADA928A5FC1-66031696-cape",
+    "url2": "",
+    "dateNote": ""
+  },
+  {
+    "title": "Bradely Creek Snow Much Fun Night",
+    "day": "3",
+    "mo": "DECEMBER",
+    "detail": "Students will be working a station at our Snow Much Fun event (some examples include taking pictures for families, serving hot chocolate, serving cookies, flower bar sign-up, helping with ornament stations, letters to Santa, etc.)",
+    "spots": "25",
+    "url": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67394282-bradely",
     "url2": "",
     "dateNote": ""
   },
