@@ -1,37 +1,7 @@
 // events-data.jsx ? Auto-generated. Do not edit manually.
-// Last updated: 11/6/2026, 9:06:20 AM ET
+// Last updated: 11/8/2026, 9:38:40 PM ET
 
 const UPCOMING_EVENTS = [
-  {
-    "title": "Hawk Masters Swimming Association",
-    "day": "7",
-    "mo": "NOVEMBER",
-    "detail": "Checking in swimmers, being a timer, or a videographer",
-    "spots": "20",
-    "url": "https://signup.com/client/invitation2/secure/9828734660120/false#/invitation",
-    "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-65426419-hawk",
-    "dateNote": ""
-  },
-  {
-    "title": "Alliance for Cape Fear Trees",
-    "day": "7",
-    "mo": "NOVEMBER",
-    "detail": "line management, help bringing trees to cars, face paint table, kids craft table.",
-    "spots": "15",
-    "url": "https://allianceforcapefeartrees.app.neoncrm.com/forms/volunteer?opportunityId=69",
-    "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67239535-alliance",
-    "dateNote": ""
-  },
-  {
-    "title": "Sunset Park Elementary ",
-    "day": "7",
-    "mo": "NOVEMBER",
-    "detail": "Spreading mulch, cleaning up the school area, getting garden areas ready",
-    "spots": "5",
-    "url": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67360789-sunset",
-    "url2": "",
-    "dateNote": ""
-  },
   {
     "title": "Pine Valley PTA",
     "day": "13",
@@ -93,6 +63,16 @@ const UPCOMING_EVENTS = [
     "dateNote": ""
   },
   {
+    "title": "Breakthrough T1D",
+    "day": "14",
+    "mo": "NOVEMBER",
+    "detail": "Set up and breakdown of annual event - Walk for a Cure - for type 1 diabetes ",
+    "spots": "15",
+    "url": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67431186-breakthrough",
+    "url2": "",
+    "dateNote": ""
+  },
+  {
     "title": "Cape Fear Habitat for Humanity Turkey Trot",
     "day": "26",
     "mo": "NOVEMBER",
@@ -131,6 +111,16 @@ const UPCOMING_EVENTS = [
     "url": "https://ymcasenc.volunteermatters.org/project-catalog/62",
     "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67240696-ymca",
     "dateNote": ""
+  },
+  {
+    "title": "Winter Park Optimist Christmas Tree Lot",
+    "day": "",
+    "mo": "",
+    "detail": "",
+    "spots": "",
+    "url": "",
+    "url2": "",
+    "dateNote": ""
   }
 ];
 
@@ -142,22 +132,6 @@ const RECURRING_EVENTS = [
     "spots": "10",
     "url": "https://www.signupgenius.com/go/4090449ADA928A5FC1-65222472-pine",
     "url2": ""
-  },
-  {
-    "title": "Miracle League",
-    "dates": "9/12-11/07",
-    "detail": " An accessible baseball league for children and adults living with disabilities. ",
-    "spots": "80-100",
-    "url": "https://www.signupgenius.com/go/508084BACAC29A4FF2-64806659-volunteer#/",
-    "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-65550645-miracle"
-  },
-  {
-    "title": "Healthy Kids Running Series",
-    "dates": "10/11-11/08 (SUNDAYS)",
-    "detail": "Assisting me with race day logistics (setting up the course, timing runners, time recorder, registration table support, stretch leaders, race starters)",
-    "spots": "8 per day",
-    "url": "https://runsignup.com/hkrswilmingtonnc/volunteer?_gl=1*uoflt2*_ga*MTYzMjQxMzk0MC4xNzM2Nzc1NjA0*_ga_JD7D2K6YXQ*czE3ODg0NTYwNTgkbzc4JGcxJHQxNzg4NDU2MDU5JGo1OSRsMCRoMA..",
-    "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-66265684-healthy#/"
   }
 ];
 
