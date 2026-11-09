@@ -1,5 +1,5 @@
 // events-data.jsx ? Auto-generated. Do not edit manually.
-// Last updated: 11/8/2026, 9:38:40 PM ET
+// Last updated: 11/8/2026, 9:45:30 PM ET
 
 const UPCOMING_EVENTS = [
   {
@@ -110,16 +110,6 @@ const UPCOMING_EVENTS = [
     "spots": "60",
     "url": "https://ymcasenc.volunteermatters.org/project-catalog/62",
     "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67240696-ymca",
-    "dateNote": ""
-  },
-  {
-    "title": "Winter Park Optimist Christmas Tree Lot",
-    "day": "",
-    "mo": "",
-    "detail": "",
-    "spots": "",
-    "url": "",
-    "url2": "",
     "dateNote": ""
   }
 ];
