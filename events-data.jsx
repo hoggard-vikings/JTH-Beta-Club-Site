@@ -1,5 +1,5 @@
 // events-data.jsx ? Auto-generated. Do not edit manually.
-// Last updated: 11/11/2026, 5:12:06 PM ET
+// Last updated: 11/11/2026, 5:12:55 PM ET
 
 const UPCOMING_EVENTS = [
   {
@@ -134,19 +134,19 @@ const RECURRING_EVENTS = [
     "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67557181-harrelson"
   },
   {
-    "title": "Pine Valley Methodist Church 49ers",
-    "dates": "Every 3rd Tuesday",
-    "detail": "Volunteers will help serve a meal, set up, clean up, wash dishes, and assist attendees to their tables.",
-    "spots": "10",
-    "url": "https://www.signupgenius.com/go/4090449ADA928A5FC1-65222472-pine",
-    "url2": ""
-  },
-  {
     "title": "Winter Park Optimist Christmas Tree Lot",
     "dates": "Every Day 11/21 - 12/15",
     "detail": "Cleaning tree lot, making wreaths, selling Christmas trees, etc. ",
     "spots": "10",
     "url": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67499078-winter",
+    "url2": ""
+  },
+  {
+    "title": "Pine Valley Methodist Church 49ers",
+    "dates": "Every 3rd Tuesday",
+    "detail": "Volunteers will help serve a meal, set up, clean up, wash dishes, and assist attendees to their tables.",
+    "spots": "10",
+    "url": "https://www.signupgenius.com/go/4090449ADA928A5FC1-65222472-pine",
     "url2": ""
   }
 ];
