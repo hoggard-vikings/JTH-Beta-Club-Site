@@ -1,5 +1,5 @@
 // events-data.jsx ? Auto-generated. Do not edit manually.
-// Last updated: 11/10/2026, 7:22:45 AM ET
+// Last updated: 11/10/2026, 9:44:04 PM ET
 
 const UPCOMING_EVENTS = [
   {
@@ -19,6 +19,16 @@ const UPCOMING_EVENTS = [
     "detail": "Helping with setting up concessions, serving concessions, and cleaning up",
     "spots": "5",
     "url": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67394531-holly",
+    "url2": "",
+    "dateNote": ""
+  },
+  {
+    "title": "JTH Athletic Booster Club",
+    "day": "13",
+    "mo": "NOVEMBER",
+    "detail": "Helping in concessions for playoff game (football)",
+    "spots": "2",
+    "url": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67533590-jthathletic",
     "url2": "",
     "dateNote": ""
   },
