@@ -1,5 +1,5 @@
 // events-data.jsx ? Auto-generated. Do not edit manually.
-// Last updated: 11/11/2026, 3:01:06 PM ET
+// Last updated: 11/11/2026, 5:11:32 PM ET
 
 const UPCOMING_EVENTS = [
   {
@@ -140,6 +140,14 @@ const RECURRING_EVENTS = [
     "spots": "10",
     "url": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67499078-winter",
     "url2": ""
+  },
+  {
+    "title": "Harrelson Center Gift Bag Donations",
+    "dates": "11/12-11/18",
+    "detail": "We are collecting snacks and simple winter supplies to help make blessing bags to give to the homeless and those in need. ",
+    "spots": "300",
+    "url": "https://www.signupgenius.com/go/10C0A4EA4AB2DA0F9C16-67210353-harrelson#/",
+    "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67557181-harrelson"
   }
 ];
 
