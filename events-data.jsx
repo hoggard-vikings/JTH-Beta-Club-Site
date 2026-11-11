@@ -1,5 +1,5 @@
 // events-data.jsx ? Auto-generated. Do not edit manually.
-// Last updated: 11/10/2026, 9:44:04 PM ET
+// Last updated: 11/11/2026, 3:01:06 PM ET
 
 const UPCOMING_EVENTS = [
   {
@@ -121,16 +121,6 @@ const UPCOMING_EVENTS = [
     "url": "https://ymcasenc.volunteermatters.org/project-catalog/62",
     "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67240696-ymca",
     "dateNote": ""
-  },
-  {
-    "title": "Winter Park Optimist Christmas Tree Lot",
-    "day": "",
-    "mo": "",
-    "detail": "",
-    "spots": "",
-    "url": "",
-    "url2": "",
-    "dateNote": ""
   }
 ];
 
@@ -141,6 +131,14 @@ const RECURRING_EVENTS = [
     "detail": "Volunteers will help serve a meal, set up, clean up, wash dishes, and assist attendees to their tables.",
     "spots": "10",
     "url": "https://www.signupgenius.com/go/4090449ADA928A5FC1-65222472-pine",
+    "url2": ""
+  },
+  {
+    "title": "Winter Park Optimist Christmas Tree Lot",
+    "dates": "Every Day 11/21 - 12/15",
+    "detail": "Cleaning tree lot, making wreaths, selling Christmas trees, etc. ",
+    "spots": "10",
+    "url": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67499078-winter",
     "url2": ""
   }
 ];
