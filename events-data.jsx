@@ -1,37 +1,7 @@
 // events-data.jsx ? Auto-generated. Do not edit manually.
-// Last updated: 11/11/2026, 5:12:55 PM ET
+// Last updated: 11/14/2026, 12:02:18 PM ET
 
 const UPCOMING_EVENTS = [
-  {
-    "title": "Pine Valley PTA",
-    "day": "13",
-    "mo": "NOVEMBER",
-    "detail": "We need 4 volunteers to help with our Movie Night! Two volunteers will help sell spirit wear, while the other two will help operate the popcorn machine and assist the middle school Beta Club with concessions. If spirit wear gets especially busy, all four volunteers may need to help at the spirit wear table.",
-    "spots": "4",
-    "url": "https://signup.com/client/invitation2/secure/54287675409/false#/invitation",
-    "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67009651-pine#/ ",
-    "dateNote": ""
-  },
-  {
-    "title": "Holly Tree Movie Night",
-    "day": "13",
-    "mo": "NOVEMBER",
-    "detail": "Helping with setting up concessions, serving concessions, and cleaning up",
-    "spots": "5",
-    "url": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67394531-holly",
-    "url2": "",
-    "dateNote": ""
-  },
-  {
-    "title": "JTH Athletic Booster Club",
-    "day": "13",
-    "mo": "NOVEMBER",
-    "detail": "Helping in concessions for playoff game (football)",
-    "spots": "2",
-    "url": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67533590-jthathletic",
-    "url2": "",
-    "dateNote": ""
-  },
   {
     "title": "Alliance for Cape Fear Trees",
     "day": "14, 15",
@@ -93,7 +63,7 @@ const UPCOMING_EVENTS = [
     "dateNote": ""
   },
   {
-    "title": "Bradely Creek Snow Much Fun Night",
+    "title": "Bradley Creek Snow Much Fun Night",
     "day": "3",
     "mo": "DECEMBER",
     "detail": "Students will be working a station at our Snow Much Fun event (some examples include taking pictures for families, serving hot chocolate, serving cookies, flower bar sign-up, helping with ornament stations, letters to Santa, etc.)",
