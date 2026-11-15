@@ -1,5 +1,5 @@
 // events-data.jsx ? Auto-generated. Do not edit manually.
-// Last updated: 11/14/2026, 12:02:18 PM ET
+// Last updated: 11/15/2026, 12:43:13 PM ET
 
 const UPCOMING_EVENTS = [
   {
@@ -23,16 +23,6 @@ const UPCOMING_EVENTS = [
     "dateNote": ""
   },
   {
-    "title": "Smart Start of NHC",
-    "day": "14",
-    "mo": "NOVEMBER",
-    "detail": "Helping table partners set up and break down",
-    "spots": "10",
-    "url": "https://www.signupgenius.com/go/10C0C4AABA923A5F9C34-66862599-smart#/",
-    "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-66985170-smart",
-    "dateNote": ""
-  },
-  {
     "title": "Amigos International",
     "day": "14, 15",
     "mo": "NOVEMBER",
@@ -40,16 +30,6 @@ const UPCOMING_EVENTS = [
     "spots": "                 20-30",
     "url": "https://www.signupgenius.com/go/20F0445ADAF2BA3FC1-66633828-amigos#/",
     "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-66985580-amigos",
-    "dateNote": ""
-  },
-  {
-    "title": "Breakthrough T1D",
-    "day": "14",
-    "mo": "NOVEMBER",
-    "detail": "Set up and breakdown of annual event - Walk for a Cure - for type 1 diabetes ",
-    "spots": "15",
-    "url": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67431186-breakthrough",
-    "url2": "",
     "dateNote": ""
   },
   {
