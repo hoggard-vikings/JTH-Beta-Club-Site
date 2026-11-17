@@ -1,37 +1,7 @@
 // events-data.jsx ? Auto-generated. Do not edit manually.
-// Last updated: 11/15/2026, 12:43:13 PM ET
+// Last updated: 11/16/2026, 10:37:10 PM ET
 
 const UPCOMING_EVENTS = [
-  {
-    "title": "Alliance for Cape Fear Trees",
-    "day": "14, 15",
-    "mo": "NOVEMBER",
-    "detail": "Planting trees in downtown Wilmington!",
-    "spots": "50 (25 per day)",
-    "url": "https://allianceforcapefeartrees.app.neoncrm.com/forms/volunteer?opportunityId=65",
-    "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-65296647-alliance",
-    "dateNote": ""
-  },
-  {
-    "title": "Battleship Half Marathon ",
-    "day": "14, 15",
-    "mo": "NOVEMBER",
-    "detail": "Directing runners, helping at the finish line, cleaning and setting up ",
-    "spots": "40",
-    "url": "https://www.battleshiphalfmarathon.com/Race/Volunteer/NC/Wilmington/BattleshipHalfMarathon#71838",
-    "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-66242054-battleship",
-    "dateNote": ""
-  },
-  {
-    "title": "Amigos International",
-    "day": "14, 15",
-    "mo": "NOVEMBER",
-    "detail": "helping the Exhibitors set up their Booths and manning Kids Inflatables or games",
-    "spots": "                 20-30",
-    "url": "https://www.signupgenius.com/go/20F0445ADAF2BA3FC1-66633828-amigos#/",
-    "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-66985580-amigos",
-    "dateNote": ""
-  },
   {
     "title": "Cape Fear Habitat for Humanity Turkey Trot",
     "day": "26",
