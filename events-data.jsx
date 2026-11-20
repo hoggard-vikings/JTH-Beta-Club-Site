@@ -1,5 +1,5 @@
 // events-data.jsx ? Auto-generated. Do not edit manually.
-// Last updated: 11/18/2026, 5:38:38 PM ET
+// Last updated: 11/20/2026, 11:19:14 AM ET
 
 const UPCOMING_EVENTS = [
   {
@@ -40,6 +40,16 @@ const UPCOMING_EVENTS = [
     "spots": "60",
     "url": "https://ymcasenc.volunteermatters.org/project-catalog/62",
     "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67240696-ymca",
+    "dateNote": ""
+  },
+  {
+    "title": "IRONMAN 70.3 North Carolina",
+    "day": "12",
+    "mo": "DECEMBER",
+    "detail": "Directional Volunteers and Water Aid Station Volunteers ",
+    "spots": "30",
+    "url": "https://runsignup.com/Race/Volunteer/NC/Wilmington/WilmingtonDashingThruTheGlow",
+    "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67778722-ironman",
     "dateNote": ""
   }
 ];
