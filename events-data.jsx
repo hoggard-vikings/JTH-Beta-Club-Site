@@ -1,5 +1,5 @@
 // events-data.jsx ? Auto-generated. Do not edit manually.
-// Last updated: 11/20/2026, 11:19:14 AM ET
+// Last updated: 11/23/2026, 4:47:10 PM ET
 
 const UPCOMING_EVENTS = [
   {
@@ -50,6 +50,16 @@ const UPCOMING_EVENTS = [
     "spots": "30",
     "url": "https://runsignup.com/Race/Volunteer/NC/Wilmington/WilmingtonDashingThruTheGlow",
     "url2": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67778722-ironman",
+    "dateNote": ""
+  },
+  {
+    "title": "Tyndall Christmas Cookie Event to benefit Paws 4 People",
+    "day": "18,19",
+    "mo": "DECEMBER",
+    "detail": "Bring Donation items from Paws 4 People Donation list 2 hours of service time for $20 in donations",
+    "spots": "300",
+    "url": "https://www.signupgenius.com/go/4090449ADA928A5FC1-67827480-tyndall#/",
+    "url2": "https://docs.google.com/document/d/1d6j1Mu-TeuK5TqBGiwWCny9lrzU1NDsJm0qJUrftEuM/edit?tab=t.0",
     "dateNote": ""
   }
 ];
