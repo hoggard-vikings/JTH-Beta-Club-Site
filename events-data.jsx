@@ -1,5 +1,5 @@
 // events-data.jsx ? Auto-generated. Do not edit manually.
-// Last updated: 11/23/2026, 4:47:10 PM ET
+// Last updated: 11/23/2026, 4:48:06 PM ET
 
 const UPCOMING_EVENTS = [
   {
@@ -54,7 +54,7 @@ const UPCOMING_EVENTS = [
   },
   {
     "title": "Tyndall Christmas Cookie Event to benefit Paws 4 People",
-    "day": "18,19",
+    "day": "18, 19",
     "mo": "DECEMBER",
     "detail": "Bring Donation items from Paws 4 People Donation list 2 hours of service time for $20 in donations",
     "spots": "300",
