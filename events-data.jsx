@@ -1,17 +1,7 @@
 // events-data.jsx ? Auto-generated. Do not edit manually.
-// Last updated: 11/23/2026, 4:48:06 PM ET
+// Last updated: 11/27/2026, 7:37:24 PM ET
 
 const UPCOMING_EVENTS = [
-  {
-    "title": "Cape Fear Habitat for Humanity Turkey Trot",
-    "day": "26",
-    "mo": "NOVEMBER",
-    "detail": "Course monitors ",
-    "spots": "20",
-    "url": "https://www.signupgenius.com/go/4090449ADA928A5FC1-66031696-cape",
-    "url2": "",
-    "dateNote": ""
-  },
   {
     "title": "Bradley Creek Snow Much Fun Night",
     "day": "3",
